@@ -71,11 +71,21 @@ a {
 
 .title-text {
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
 }
+
+.team-section {
+    background-color: #F4F4FD
+
+}
+
+ .team-photo {
+    background-color: #FFFFFF;
+
+ }
 
 .subtitle-text {
     font-weight: 500;
