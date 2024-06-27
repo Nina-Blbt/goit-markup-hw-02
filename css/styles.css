@@ -78,10 +78,12 @@ a {
 }
 
 .subtitle-text {
+    font-weight: 500;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -97,7 +99,7 @@ a {
 }
 
 .title-button:hover {
-    background-color: #404bbf;
+    background-color: #404BBF;
 }
 
 .about-list {
@@ -106,6 +108,7 @@ a {
 
 
 .txt {
+        font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
