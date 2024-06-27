@@ -108,7 +108,8 @@ a {
     color: #fff;
 }
 
-.title-button:hover {
+.title-button:hover,
+.title-button:focus {
     background-color: #404BBF;
 }
 
